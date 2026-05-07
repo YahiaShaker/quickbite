@@ -1,0 +1,37 @@
+[
+  {
+    "code": "SAVE10",
+    "label": "10% off your order",
+    "type": "percent",
+    "value": 10,
+    "active": true
+  },
+  {
+    "code": "BITE20",
+    "label": "20% off your order",
+    "type": "percent",
+    "value": 20,
+    "active": true
+  },
+  {
+    "code": "FREEDELIVERY",
+    "label": "Free delivery",
+    "type": "free_delivery",
+    "value": 100,
+    "active": true
+  },
+  {
+    "code": "PIZZA5",
+    "label": "$5 off your order",
+    "type": "fixed",
+    "value": 5,
+    "active": true
+  },
+  {
+    "code": "STUDENT15",
+    "label": "15% student discount",
+    "type": "percent",
+    "value": 15,
+    "active": true
+  }
+]
