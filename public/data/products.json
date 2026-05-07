@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "name": "Cheeseburger",
+    "category": "Burgers",
+    "description": "Double cheeseburger with lettuce, cheese, pickles and buffalo sauce.",
+    "price": 8.99,
+    "detailsPrice": 9.99,
+    "rating": 4.8,
+    "image": "/images/burger.png",
+    "heroImage": "/images/burger.png",
+    "cartImage": "/images/burger.png"
+  },
+  {
+    "id": 2,
+    "name": "Margherita Pizza",
+    "category": "Pizza",
+    "description": "Tomato, basil, mozzarella.",
+    "price": 9.99,
+    "rating": 4.7,
+    "image": "/images/pizza.jpg",
+    "heroImage": "/images/pizza.jpg",
+    "cartImage": "/images/pizza.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Iced Latte",
+    "category": "Drinks",
+    "description": "Cold coffee with milk.",
+    "price": 4.25,
+    "rating": 4.5,
+    "image": "/images/latte.jpg",
+    "heroImage": "/images/latte.jpg",
+    "cartImage": "/images/latte.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Chocolate Donut",
+    "category": "Desserts",
+    "description": "Soft donut with glaze.",
+    "price": 3.5,
+    "rating": 4.6,
+    "image": "/images/donut.jpg",
+    "heroImage": "/images/donut.jpg",
+    "cartImage": "/images/donut.jpg"
+  }
+]
